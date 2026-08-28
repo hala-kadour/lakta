@@ -1,0 +1,10 @@
+{
+  "appName": "Lakta",
+  "scan": "Scan",
+  "bottomNav": {
+    "home": "Home",
+    "history": "History",
+    "collections": "Collections",
+    "settings": "Settings"
+  }
+}

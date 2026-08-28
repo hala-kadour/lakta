@@ -1,0 +1,10 @@
+{
+  "appName": "لقطة",
+  "scan": "مسح",
+  "bottomNav": {
+    "home": "الرئيسية",
+    "history": "السجل",
+    "collections": "المجموعات",
+    "settings": "الإعدادات"
+  }
+}
